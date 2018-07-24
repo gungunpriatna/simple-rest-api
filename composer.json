@@ -1,0 +1,15 @@
+{
+    "name": "gungunpriatna/simple_restapi",
+    "description": "belajar membuat rest api sederhana",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gun Gun Priatna",
+            "email": "gungun002@ummi.ac.id"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^2.5"
+    }
+}
